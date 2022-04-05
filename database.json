@@ -1,11 +1,11 @@
 {
   "animals": [
-      { "id": 1, "name": "Doodles", "breed": "Poodle"},
-      { "id": 2, "name": "Parsley", "breed": "Great Dane" },
-      { "id": 3, "name": "Esme", "breed": "Pitbull" },
-      { "id": 4, "name": "Bonzo", "breed": "Weenie" },
-      { "id": 5, "name": "Murphy", "breed": "Australian Shephard" },
-      { "id": 6, "name": "Wishbone", "breed": "Mutt" }
+      { "id": 1, "name": "Doodles", "breed": "Poodle", "customerId": 1},
+      { "id": 2, "name": "Parsley", "breed": "Great Dane", "customerId": 2 },
+      { "id": 3, "name": "Esme", "breed": "Pitbull", "customerId": 3 },
+      { "id": 4, "name": "Bonzo", "breed": "Weenie", "customerId": 3 },
+      { "id": 5, "name": "Murphy", "breed": "Australian Shephard", "customerId": 4 },
+      { "id": 6, "name": "Wishbone", "breed": "Mutt", "customerId": 4 }
       
   ],
   "customers": [
