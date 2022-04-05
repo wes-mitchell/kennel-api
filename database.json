@@ -1,0 +1,46 @@
+{
+  "animals": [
+      { "id": 1, "name": "Doodles", "breed": "Poodle"},
+      { "id": 2, "name": "Parsley", "breed": "Great Dane" },
+      { "id": 3, "name": "Esme", "breed": "Pitbull" },
+      { "id": 4, "name": "Bonzo", "breed": "Weenie" },
+      { "id": 5, "name": "Murphy", "breed": "Australian Shephard" },
+      { "id": 6, "name": "Wishbone", "breed": "Mutt" }
+      
+  ],
+  "customers": [
+      {
+          "id": 1,
+          "name": "Luke Skywalker",
+          "address": "976 Tatooine Dr."
+      },
+       {
+          "id": 2,
+          "name": "Padmé Amidala",
+          "address": "1211 Naboo Lane"
+      },
+      {
+        "id": 3,
+        "name": "Wes Mantooth",
+        "address": "910 Elvira Ave"
+      },
+      {
+        "id": 4,
+        "name": "Hank Hill",
+        "address": "1518 Dang Ol' Texas Way"
+      }
+  ],
+  "employees": [],
+  "locations": [
+      {
+          "id": 1,
+          "name": "Nashville North",
+          "address": "8422 Johnson Pike"
+      },
+      {
+          "id": 2,
+          "name": "Nashville South",
+          "address": "209 Emory Drive"
+      }
+  ]
+}
